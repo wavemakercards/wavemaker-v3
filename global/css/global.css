@@ -571,6 +571,7 @@ No media query since this is the default in Bootstrap because it is "mobile firs
     }
     #notesPanel {
         right: 0px;
+        z-index:1025;
     }
     #navigation-side-nav {
         width: 320px;
