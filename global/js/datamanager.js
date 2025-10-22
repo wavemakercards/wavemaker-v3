@@ -240,6 +240,8 @@ var API_KEY = 'AIzaSyAuG0KiJEMyzQYEj6jFiWD476y6QxQY5V0';
 // New Wavemaker Setup
 var CLIENT_ID = '310390079188-6tds1tkk07469t7rc9shkd8mpdl6k4rn.apps.googleusercontent.com';
 var API_KEY = 'AIzaSyAntfHu1q6cAJK0qbezpMI3GEmp2U3vfSI';
+
+
 // V4 - in wavemaker google account
 var CLIENT_ID = "451112835343-dfdk5iglpkorfmt3ouu5puogmvmvn22p.apps.googleusercontent.com";
 var API_KEY = "AIzaSyAq4C0VCC3I88n7GdW1VilDmcZdYle-UoU";
